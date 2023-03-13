@@ -13,7 +13,7 @@ The app will take a screenshot of any website you want as long as the url works.
 <img src="https://recordit.co/MDbMUHv9ll" title='Video Demo' width='' alt='Video Demo' />
 
 
-
+s
 ## Setup
 
 ### Dependencies
