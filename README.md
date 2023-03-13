@@ -10,10 +10,10 @@ The app will take a screenshot of any website you want as long as the url works.
 
 ## Project Demo
 
-<img src="https://recordit.co/MDbMUHv9ll" title='Video Demo' width='' alt='Video Demo' />
+<img src="http://g.recordit.co/gFYGu3B52Q.gif" title='Video Demo' width='' alt='Video Demo' />
 
 
-s
+
 ## Setup
 
 ### Dependencies
