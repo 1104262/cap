@@ -1,7 +1,18 @@
+# Cap Lab
 
-Project gif(https://recordit.co/MDbMUHv9ll)
+## Overview
 
-![demo with all features](readme_demo.gif)
+Cap Lab is capture or screenshot app, built using apiflash, React, Vite, HTML, JavaScript, and CSS.
+
+### How to use
+
+The app will take a screenshot of any website you want as long as the url works. You can also cutomize the screenshot by giving custom height and width.
+
+## Project Demo
+
+<img src="https://recordit.co/MDbMUHv9ll" title='Video Demo' width='' alt='Video Demo' />
+
+
 
 ## Setup
 
@@ -16,7 +27,7 @@ Project gif(https://recordit.co/MDbMUHv9ll)
 
 ### Install Dependencies
 
-Before installing dependiencies, you will need `node` and `npm` installed globally on your machine by installing  [NodeJS](https://nodejs.org/en/download/) onto your machine.
+Before installing dependiencies, you will need `node` and `npm` installed globally on your machine by installing [NodeJS](https://nodejs.org/en/download/) onto your machine.
 
 To install the dependencies, run:
 
@@ -24,7 +35,7 @@ To install the dependencies, run:
 npm install
 ```
 
-### Run Cap
+### Run On My Grind
 
 In the repo directory, run the following in your terminal:
 
@@ -36,3 +47,10 @@ npm run dev
 Visit the web application in the browser
 
 ```console
+http://localhost:5173/
+```
+### Notes
+
+---
+
+*Last Updated: March 2023*
